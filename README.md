@@ -1,4 +1,5 @@
 # Tiki-Bookstore-Analysis
+https://public.tableau.com/views/Tiki-BookStore-Analytics/SellerAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
 The Tiki Bookstore Analysis project is aimed at analyzing data from bookstores on the Tiki e-commerce platform. The goal is to gain insights into the book market, customer preferences, and sales trends. The project involves crawling data from Tiki, performing data preprocessing, conducting exploratory data analysis, and visualizing the findings.
 
 ## Data Crawling
